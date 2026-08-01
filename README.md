@@ -89,11 +89,11 @@ Optimized mobile view for quick access to key indicators.
 
 ## 📂 Project Files
 
-📊 Power BI Dashboard  
-`Stock industrial_Projeto1.pbix`
-
 📄 Data Source  
 `Ficha_de_stock_fiticio.xlsx`
 
 📘 Documentation  
 `README.md`
+
+📊 Power BI Dashboard  
+`Stock industrial_Projeto1.pbix`
