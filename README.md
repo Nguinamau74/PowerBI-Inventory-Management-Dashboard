@@ -67,12 +67,6 @@ Optimized mobile view for quick access to key indicators.
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
-
----
-
-## 📂 Project Files
-
 ## Dashboard
 
 ### Visão Geral
@@ -90,3 +84,9 @@ Optimized mobile view for quick access to key indicators.
 ### Vista Mobile
 
 ![Vista Mobile](Imagens/vista-mobile.png)
+
+---
+
+## 📂 Project Files
+
+
