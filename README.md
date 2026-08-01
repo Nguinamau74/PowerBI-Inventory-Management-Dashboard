@@ -48,7 +48,7 @@ The objective is to transform raw inventory data into meaningful insights, helpi
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](Images/dashboard_overview.png)
+![Dashboard Overview](Images/dashboard-principal.png)
 
 ## 📌 Project Overview
 
