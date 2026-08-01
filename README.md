@@ -1,4 +1,50 @@
-# 📦 PowerBI-Inventory-Management-Dashboard
+# 📦 Power BI Inventory Management Dashboard
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge&logo=powerbi)
+![Excel](https://img.shields.io/badge/Excel-Data%20Source-green?style=for-the-badge&logo=microsoftexcel)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Project-blue?style=for-the-badge)
+![Maintenance](https://img.shields.io/badge/Maintenance-Industrial-orange?style=for-the-badge)
+
+</div>
+
+
+## 📊 Project Overview
+
+This project presents an interactive **Power BI dashboard developed for inventory management and stock analysis**.
+
+The objective is to transform raw inventory data into meaningful insights, helping maintenance and operational teams monitor:
+
+- Stock availability
+- Inventory value
+- Critical items
+- Supplier analysis
+- Spare parts management
+
+
+## 🎯 Business Objectives
+
+- Monitor total inventory value
+- Identify high-value spare parts
+- Analyse stock availability
+- Support maintenance planning decisions
+- Improve inventory visibility
+
+
+## 🛠️ Tools & Technologies
+
+| Tool | Purpose |
+|---|---|
+| Power BI | Dashboard development and data visualization |
+| Excel | Data preparation and modelling |
+| DAX | Measures and KPIs creation |
+| Power Query | Data transformation |
+
+
+## 📸 Dashboard Preview
+
+![Dashboard Overview](Images/dashboard_overview.png)
 
 ## 📌 Project Overview
 
