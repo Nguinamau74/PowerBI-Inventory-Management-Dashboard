@@ -114,6 +114,18 @@ Optimized mobile view for quick access to key indicators.
 - Supplier Analysis
 
 ---
+## 👨‍💻 Perfil do Projeto
+
+Projeto desenvolvido para simular um ambiente industrial de gestão de inventário, aplicando técnicas de análise de dados para apoiar decisões relacionadas com stock, reposição e controlo de peças.
+
+## Competências Demonstradas
+
+- Power BI Dashboard Development
+- Data Cleaning com Power Query
+- Modelação de Dados
+- Criação de medidas DAX
+- Análise de indicadores de stock
+- Visualização de dados para tomada de decisão
 
 ## 📷 Dashboard Preview
 
