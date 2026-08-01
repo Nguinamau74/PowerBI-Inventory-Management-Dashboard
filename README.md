@@ -89,7 +89,7 @@ Optimized mobile view for quick access to key indicators.
 
 ## 📂 Project Files
 
-Stock industrial_Projeto1.pbix
+![Estrutura](main/Stock industrial_Projeto1.pbix
 Ficha_de_stock_fiticio.xlsx
 README.md
 
