@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="images/dashboard_principal.png" width="900"/>
+  <img src="images/dashboard-principal.png" width="900"/>
 </p>
-
-<h1 align="center">Dashboard de Gestão de Stock - Power BI</h1>
 
 # 📦 Power BI Inventory Management Dashboard
 
