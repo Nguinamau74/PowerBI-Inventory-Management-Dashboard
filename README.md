@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/dashboard-principal.png" width="900"/>
+  <img src="Images/dashboard-principal.png" width="900"/>
 </p>
 
 # 📦 Power BI Inventory Management Dashboard
