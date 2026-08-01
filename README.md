@@ -1,4 +1,4 @@
-# 📦 Power BI Dashboard Gestão Stock Industrial
+# 📦 PowerBI-Inventory-Management-Dashboard
 
 ## 📌 Project Overview
 
