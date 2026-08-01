@@ -71,19 +71,19 @@ Optimized mobile view for quick access to key indicators.
 
 ### Visão Geral
 
-![Dashboard Principal](Imagens/dashboard-principal.png)
+![Dashboard Principal](Images/dashboard-principal.png)
 
 ### Análise de Stock
 
-![Stock Crítico](Imagens/controlo-stock.png)
+![Stock Crítico](Images/controlo-stock.png)
 
 ### Pesquisa Artigos
 
-![Pesquisar Artigos](Imagens/pesquisa-artigos.png)
+![Pesquisar Artigos](Images/pesquisa-artigos.png)
 
 ### Vista Mobile
 
-![Vista Mobile](Imagens/vista-mobile.png)
+![Vista Mobile](Images/vista-mobile.png)
 
 ---
 
