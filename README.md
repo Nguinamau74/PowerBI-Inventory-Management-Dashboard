@@ -137,7 +137,7 @@ Projeto desenvolvido para simular um ambiente industrial de gestão de inventár
 
 ### Análise de Stock
 
-![Stock Crítico](Images/controlo-stock.png)
+![Stock Crítico](images/controlo-stock.png)
 
 ### Pesquisa Artigos
 
