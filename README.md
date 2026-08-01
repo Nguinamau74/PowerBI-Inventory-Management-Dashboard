@@ -89,15 +89,11 @@ Optimized mobile view for quick access to key indicators.
 
 ## 📂 Project Files
 
-```
-📁 Stock_Industrial_Projeto1
+📊 Power BI Dashboard  
+`Stock industrial_Projeto1.pbix`
 
-├── 📊 Stock industrial_Projeto1.pbix
-├── 📄 Ficha_de_stock_ficticio.xlsx
-├── 📄 README.md
-│
-└── 📁 Imagens
-    ├── dashboard_principal.png
-    ├── stock_critico.png
-    └── top10_pecas.png
-```
+📄 Data Source  
+`Ficha_de_stock_fiticio.xlsx`
+
+📘 Documentation  
+`README.md`
