@@ -89,10 +89,15 @@ Optimized mobile view for quick access to key indicators.
 
 ## 📂 Project Files
 
-![Project Files](Ficha_de_stock_fiticio.xlsx)
-![Project Files](README.md)
-![Project Files](Stock industrial_Projeto1.pbix)
+```
+📁 Stock_Industrial_Projeto1
 
-
-
-
+├── 📊 Stock industrial_Projeto1.pbix
+├── 📄 Ficha_de_stock_ficticio.xlsx
+├── 📄 README.md
+│
+└── 📁 Imagens
+    ├── dashboard_principal.png
+    ├── stock_critico.png
+    └── top10_pecas.png
+```
