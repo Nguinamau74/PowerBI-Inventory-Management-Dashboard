@@ -72,3 +72,21 @@ Optimized mobile view for quick access to key indicators.
 ---
 
 ## 📂 Project Files
+
+## Dashboard
+
+### Visão Geral
+
+![Dashboard Principal](Imagens/dashboard-principal.png)
+
+### Análise de Stock
+
+![Stock Crítico](Imagens/controlo-stock.png)
+
+### Pesquisa Artigos
+
+![Pesquisar Artigos](Imagens/pesquisa-artigos.png)
+
+### Vista Mobile
+
+![Vista Mobile](Imagens/vista-mobile.png)
